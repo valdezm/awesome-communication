@@ -18,6 +18,7 @@ I will likely(time-permitting) be building out front-end/pipeline for this repos
 * [Awesome Communication](#awesome-commuication)
   * [Attitude](#attitude)
   * [Technical Leadership Tactics](#technical-leadership-tactics)
+  * [Leadership Roles](#leadership-roles)
 
 
 ## Attitude
@@ -25,3 +26,6 @@ I will likely(time-permitting) be building out front-end/pipeline for this repos
 
 ## Technical Leadership Tactics
 * [Actionable Tactics for Leveling Up Junior Devs by Sumeet Jain](https://youtu.be/K0vxOBIyhF0) - 12 tips and more to help any organization foster a healthy Developer environment, with a focus on mentorship and Junior Developers. - [Author's reference](https://www.sumeetjain.com/posts/actionable-tactics-for-leveling-up-devs/)
+
+## Leadership Roles
+* [Principal Engineer](https://blog.dbsmasher.com/2019/01/28/on-being-a-principal-engineer.html) - On Being A Principal Engineer - Principal Engineer, Individual Contributer, Technical Management article on these roles - [YC Thread](https://news.ycombinator.com/item?id=19128489)
