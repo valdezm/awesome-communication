@@ -20,6 +20,7 @@ I will likely(time-permitting) be building out front-end/pipeline for this repos
   * [Leadership Roles](#leadership-roles)
   * [Techincal Interviews](#technical-interviews)
   * [Technical Leadership Tactics](#technical-leadership-tactics)
+  * [Technical Skills Improvement](#technical-skills-improvement)
 
 
 ## Attitude
@@ -33,3 +34,6 @@ I will likely(time-permitting) be building out front-end/pipeline for this repos
 
 ## Technical Leadership Tactics
 * [Actionable Tactics for Leveling Up Junior Devs by Sumeet Jain](https://youtu.be/K0vxOBIyhF0) - 12 tips and more to help any organization foster a healthy Developer environment, with a focus on mentorship and Junior Developers. - [Author's reference](https://www.sumeetjain.com/posts/actionable-tactics-for-leveling-up-devs/)
+
+## Technical Skills Improvement
+* [Making Badass Developers - Kathy Sierra (Serious Pony) keynote](https://youtu.be/FKTxC9pl-WM) - "Just want to acknowledge you all are human.. Your cognitive resources are scarce and precious" - [Author's reference](http://seriouspony.com/)
