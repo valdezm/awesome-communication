@@ -18,6 +18,7 @@ I will likely(time-permitting) be building out front-end/pipeline for this repos
 * [Awesome Communication](#awesome-commuication)
   * [Attitude](#attitude)
   * [Leadership Roles](#leadership-roles)
+  * [Remote Work](#remote-work)
   * [Techincal Interviews](#technical-interviews)
   * [Technical Leadership Tactics](#technical-leadership-tactics)
   * [Technical Skills Improvement](#technical-skills-improvement)
@@ -28,6 +29,9 @@ I will likely(time-permitting) be building out front-end/pipeline for this repos
 
 ## Leadership Roles
 * [Principal Engineer](https://blog.dbsmasher.com/2019/01/28/on-being-a-principal-engineer.html) - On Being A Principal Engineer - Principal Engineer, Individual Contributor, Technical Management article on these roles - [YC Thread](https://news.ycombinator.com/item?id=19128489)
+
+## Remote Work
+* [Remote Right: How to Thrive in a Post-Office World • Brendan O'Leary • GOTO 2021](https://youtu.be/j62yCp_J-Zw) – A brief introduction to world of remote working from Brendan of Gitlab. - [Author's reference, The Remote Playbook](https://about.gitlab.com/company/culture/all-remote/)
 
 ## Technical Interviews
 * [Top Software Engineering Interview Tips by Dave Farley of Continuous Delivery](https://youtu.be/osnOY5zgdMI) - This is among the best advise I have ever come across on Technical Interviews; it instills confidence and a clear perspective on how to approach the interview process. 
