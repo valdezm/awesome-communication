@@ -37,7 +37,7 @@ I will likely(time-permitting) be building out front-end/pipeline for this repos
 ## General Interview Advice
 * [99% of interview advice online in 2024 is garbage. Here's why. • Matt Huang](https://youtu.be/3TbrtPgD_NU) - What is interviewing? 10 % of interviewing prep focuses on conviction, 90 % is on "Rational Piece" -- this should not be so! Why? Watch this short video.
 
-**In general this Matt's advice feels solid, please check out his [youtube channel](https://www.youtube.com/@matthuang21) for more! Thank you for what you do Matt!**
+**In general Matt's advice feels solid, please check out his [youtube channel](https://www.youtube.com/@matthuang21) for more! Thank you for what you do Matt!**
 
 ## Technical Interviews
 * [Top Software Engineering Interview Tips by Dave Farley of Continuous Delivery](https://youtu.be/osnOY5zgdMI) - This is among the best advise I have ever come across on Technical Interviews; it helps instill confidence by placing value on what should recieve visibility and offers a clear perspective on how to approach the interview process. 
