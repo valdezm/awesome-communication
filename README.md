@@ -18,6 +18,7 @@ I will likely(time-permitting) be building out front-end/pipeline for this repos
 * [Awesome Communication](#awesome-commuication)
   * [Attitude](#attitude)
   * [Leadership Roles](#leadership-roles)
+  * [Lominger 67 Compentencies](#lominger-67-compentencies)
   * [Remote Work](#remote-work)
   * [General Interview Advice](#general-interview-advice)
   * [Techincal Interviews](#technical-interviews)
@@ -30,6 +31,14 @@ I will likely(time-permitting) be building out front-end/pipeline for this repos
 
 ## Leadership Roles
 * [Principal Engineer](https://blog.dbsmasher.com/2019/01/28/on-being-a-principal-engineer.html) - On Being A Principal Engineer - Principal Engineer, Individual Contributor, Technical Management article on these roles - [YC Thread](https://news.ycombinator.com/item?id=19128489)
+
+## Lominger 67 Compentencies
+ * [Lominger 67 Compentencies Trello Board](https://trello.com/b/57Vz2bvv/lominger-67-competencies) - The 67 Compentencies on a Trello Board
+
+ I learned about this from a mentor at Advekit and this has been an aamazing resource to help you grow as a leader. I'll plan to update how to utilize this board in the future.
+ 
+ _"These competencies were created to help organizations assess and develop the skills and behaviors necessary for effective leadership and employee performance"_
+
 
 ## Remote Work
 * [Remote Right: How to Thrive in a Post-Office World • Brendan O'Leary • GOTO 2021](https://youtu.be/j62yCp_J-Zw) – A brief introduction to world of remote working from Brendan of Gitlab. - [Author's reference, The Remote Playbook](https://about.gitlab.com/company/culture/all-remote/)
